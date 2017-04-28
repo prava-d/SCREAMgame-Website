@@ -150,11 +150,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## ATTRIBUTIONS
 
 Voice control:
-http://sharewebegin.blogspot.com/2013/07/record-from-mic-python.html 
+[http://sharewebegin.blogspot.com/2013/07/record-from-mic-python.html]
 
 Neural network:
-http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/ 
-http://neuralnetworksanddeeplearning.com/chap1.html 
+[http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/]
+[http://neuralnetworksanddeeplearning.com/chap1.html]
 
 ## FUTURE STEPS
 
