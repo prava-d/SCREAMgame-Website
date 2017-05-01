@@ -49,7 +49,7 @@ Ultimately, all of us ended up not only engaging with our personal goals, but le
 
 ![alt text][logo]
 
-[logo]: https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png
+[logo]: https://github.com/prava-d/SCREAMgame/blob/master/motivation%20image.png
 
 This visual shows that the game included many components to help us engage with our personal goals.
 
@@ -141,9 +141,7 @@ In terms of idea, our idea changed quite a bit.
 
 5 - A two-dimensional game, played on one laptop, with vowel sounds controlling the type of death trap that kills a character. The player is controlled by the keyboard.
 
-![alt text][logo]
-
-[logo]: https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png
+![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png)
 
 ## RESULTS
 
@@ -155,9 +153,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 _Voice control:_
 
-http://sharewebegin.blogspot.com/2013/07/record-from-mic-python.html
+<http://sharewebegin.blogspot.com/2013/07/record-from-mic-python.html>
 
-https://people.csail.mit.edu/hubert/pyaudio/docs/
+<https://people.csail.mit.edu/hubert/pyaudio/docs/>
 
 Initially, these links were used merely used as reference points in order to get audio from the microphone. However, debugging and troubleshooting issues made the code essentially very similar to snippets of code located within these two links.
 
