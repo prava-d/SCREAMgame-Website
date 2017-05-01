@@ -148,8 +148,9 @@ In terms of idea, our idea changed quite a bit.
 
 ## RESULTS
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OdKVO05B4rI
-" target="_blank"><img src="http://img.youtube.com/vi/OdKVO05B4rI" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank">Screaming Player Live Demo</a>
+<a href="https://www.youtube.com/watch?v=jZsqoxcna8M
+" target="_blank">Screaming Game Screencapture Demo</a>
 
 ## ATTRIBUTIONS
 
