@@ -58,7 +58,7 @@ Please reference the [README.md](https://github.com/nathanieltan/ScreamGame/blob
 
 ![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png?raw=true)
 
-
+![Alt text](https://img.youtube.com/vi/v=OdKVO05B4rI/0.jpg)](https://www.youtube.com/watch?feature=player_embedded&v=OdKVO05B4rI)
 
 ## IMPLEMENTATION
 
