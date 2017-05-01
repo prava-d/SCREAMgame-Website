@@ -47,12 +47,11 @@ Our personal motivations, combined with the group motivation of creating a final
 
 Ultimately, all of us ended up not only engaging with our personal goals, but learning a lot about fields we wanted to explore. Thus, the culmination of this project was not only a success because it was a final product that worked and satisfied the requirements of our lovely Software Design professors, but because we ended up fulfilling our personal motivations.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-27%2019-39-12.png?raw=true)
-
-
 This visual shows that the game included many components to help us engage with our personal goals.
 
 ## PLAYING THE GAME
+
+![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-27%2019-39-12.png?raw=true)
 
 Please reference the [README.md](https://github.com/nathanieltan/ScreamGame/blob/newBranch/README.md) on our original repository in order to play our SCREAM game! Have fun!
 
