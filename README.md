@@ -47,9 +47,7 @@ Our personal motivations, combined with the group motivation of creating a final
 
 Ultimately, all of us ended up not only engaging with our personal goals, but learning a lot about fields we wanted to explore. Thus, the culmination of this project was not only a success because it was a final product that worked and satisfied the requirements of our lovely Software Design professors, but because we ended up fulfilling our personal motivations.
 
-![alt text][logo]
-
-[logo]: ![](https://github.com/prava-d/SCREAMgame/blob/master/motivation%20image.png)
+![](https://github.com/prava-d/SCREAMgame/blob/master/motivation%20image.png)
 
 This visual shows that the game included many components to help us engage with our personal goals.
 
