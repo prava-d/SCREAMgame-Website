@@ -49,6 +49,7 @@ Ultimately, all of us ended up not only engaging with our personal goals, but le
 
 ![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-27%2019-39-12.png?raw=true)
 
+
 This visual shows that the game included many components to help us engage with our personal goals.
 
 ## PLAYING THE GAME
@@ -73,6 +74,8 @@ Handles the keyboard input and the player movement. Also has collision detection
 **Level Editor**
 
 It’s not fun if there is the same round every time. This allows a different level to be accessed every time.
+![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-30%2021-03-52.png?raw=true)
+
 
 **Environment**
 
