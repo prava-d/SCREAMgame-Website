@@ -49,7 +49,7 @@ Ultimately, all of us ended up not only engaging with our personal goals, but le
 
 ![alt text][logo]
 
-[logo]: https://github.com/prava-d/SCREAMgame/blob/master/motivation%20image.png
+[logo]: ![](https://github.com/prava-d/SCREAMgame/blob/master/motivation%20image.png)
 
 This visual shows that the game included many components to help us engage with our personal goals.
 
@@ -65,7 +65,7 @@ Run this! Combines the player and the level for an A+ playing experience. It’s
 
 **Player**
 
-Handles the keyboard input and the player movement. Also has collision detection and some stuff about death.
+Handles the keyboard input and the player movement. Also has collision detection and determines death.
 
 **Level Editor**
 
@@ -103,9 +103,7 @@ The game records the character for a small amount of time, and then processes th
 _Neural Network_
 This trains on the 'a', 'e', and 'o' vowel sounds to differentiate using machine learning methods, specifically a neural network algorithm.
 
-![alt text][logo]
-
-[logo]: https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png
+![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png)
 
 ## PROJECT HISTORY
 
