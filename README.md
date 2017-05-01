@@ -58,7 +58,8 @@ Please reference the [README.md](https://github.com/nathanieltan/ScreamGame/blob
 
 ![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png?raw=true)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OdKVO05B4rI/0.jpg)](https://www.youtube.com/watch?v=OdKVO05B4rI)
+
+
 ## IMPLEMENTATION
 
 **Main Game**
@@ -146,9 +147,10 @@ In terms of idea, our idea changed quite a bit.
 ![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png?raw=true))
 
 ## RESULTS
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OdKVO05B4rI
-" target="_blank"><img src="http://img.youtube.com/vi/OdKVO05B4rI" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jZsqoxcna8M/0.jpg)](https://www.youtube.com/watch?v=jZsqoxcna8M)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OdKVO05B4rI/0.jpg)](https://www.youtube.com/watch?v=OdKVO05B4rI)
 
 ## ATTRIBUTIONS
 
