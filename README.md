@@ -103,7 +103,7 @@ This trains on the 'a', 'e', and 'o' vowel sounds to differentiate using machine
 
 [logo]: https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png
 
-## TIMELINE
+## PROJECT HISTORY
 
 As for actual code building, we built our code starting simple and making it more complex.
 
