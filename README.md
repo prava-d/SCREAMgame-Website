@@ -101,7 +101,7 @@ The game records the character for a small amount of time, and then processes th
 _Neural Network_
 This trains on the 'a', 'e', and 'o' vowel sounds to differentiate using machine learning methods, specifically a neural network algorithm.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png)
+![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png?raw=true)
 
 ## PROJECT HISTORY
 
