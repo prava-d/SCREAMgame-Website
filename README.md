@@ -47,13 +47,18 @@ Our personal motivations, combined with the group motivation of creating a final
 
 Ultimately, all of us ended up not only engaging with our personal goals, but learning a lot about fields we wanted to explore. Thus, the culmination of this project was not only a success because it was a final product that worked and satisfied the requirements of our lovely Software Design professors, but because we ended up fulfilling our personal motivations.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/motivation%20image.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-27%2019-39-12.png?raw=true)
 
 This visual shows that the game included many components to help us engage with our personal goals.
 
 ## PLAYING THE GAME
 
 Please reference the [README.md](https://github.com/nathanieltan/ScreamGame/blob/newBranch/README.md) on our original repository in order to play our SCREAM game! Have fun!
+
+
+![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png?raw=true)
+
+
 
 ## IMPLEMENTATION
 
@@ -137,7 +142,7 @@ In terms of idea, our idea changed quite a bit.
 
 5 - A two-dimensional game, played on one laptop, with vowel sounds controlling the type of death trap that kills a character. The player is controlled by the keyboard.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png?raw=true))
 
 ## RESULTS
 
