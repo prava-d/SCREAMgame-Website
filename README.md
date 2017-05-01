@@ -24,18 +24,22 @@ All four project students are part of the ENGR2510 Software Design, Fall 2017 cl
 **Camille Xue**
 
 Camille is a first year engineering student at Franklin W. Olin College of Engineering, studying Engineering with Computing. Her project goals for this project included working with new libraries and integrating voice input with the game environment. For this project, Camille worked on the voice integration and the environment set-up.
+[link to Github](https://github.com/camillexue)
 
 **Minju Kang**
 
 Minju is a first year engineering student at Franklin W. Olin College of Engineering, studying Electrical Engineering. Her project goals for this project were to learn how to use pygame and to be able to work in a group on a semi-large scale project. Minju's contributions for this projects were the general game structure design, environment set-up, and player set-up.
+[link to Github](https://github.com/mindew)
 
 **Nathaniel Tan**
 
 Nathaniel is a first year engineering student at Franklin W. Olin College of Engineering, also studying Electrical Engineering. Project goals for this project included: learning how to integrate physics concepts into game design and learning more about game design. Nathaniel worked on the physics and collision detection engine and the level editor.
+[link to Github](https://github.com/nathanieltan)
 
 **Prava Dhulipalla**
 
 Prava, like all of her project partners, is a first year engineering student at Franklin W. Olin College of Engineering, studying Electrical and Computer Engineering. Her project goals were to learn more about machine learning and voice integration with a project. As a result, she worked on the neural network and the voice integration aspects of the code.
+[link to Github](https://github.com/prava-d)
 
 ## MOTIVATION
 
