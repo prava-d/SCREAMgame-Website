@@ -149,12 +149,21 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## ATTRIBUTIONS
 
-Voice control:
-[http://sharewebegin.blogspot.com/2013/07/record-from-mic-python.html]
+_Voice control:_
 
-Neural network:
-[http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/]
-[http://neuralnetworksanddeeplearning.com/chap1.html]
+http://sharewebegin.blogspot.com/2013/07/record-from-mic-python.html
+
+https://people.csail.mit.edu/hubert/pyaudio/docs/
+
+Initially, these links were used merely used as reference points in order to get audio from the microphone. However, debugging and troubleshooting issues made the code essentially very similar to snippets of code located within these two links.
+
+_Neural network:_
+
+http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+These links were used as references and information sources in order to create an algorithm for a neural network. No code was directly copied from snippets of code located within these links.
 
 ## FUTURE STEPS
 
