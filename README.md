@@ -144,13 +144,15 @@ In terms of idea, our idea changed quite a bit.
 
 5 - A two-dimensional game, played on one laptop, with vowel sounds controlling the type of death trap that kills a character. The player is controlled by the keyboard.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png?raw=true))
+![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png?raw=true)
 
 ## RESULTS
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jZsqoxcna8M/0.jpg)](https://www.youtube.com/watch?v=jZsqoxcna8M)
+This is the screencapture of the gameplay
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OdKVO05B4rI/0.jpg)](https://www.youtube.com/watch?v=OdKVO05B4rI)
+This is the video of the gameplay
 
 ## ATTRIBUTIONS
 
