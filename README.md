@@ -51,12 +51,12 @@ This visual shows that the game included many components to help us engage with 
 
 ## PLAYING THE GAME
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-27%2019-39-12.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame_web/blob/master/Screenshot%20from%202017-04-27%2019-39-12.png?raw=true)
 
 Please reference the [README.md](https://github.com/nathanieltan/ScreamGame/blob/newBranch/README.md) on our original repository in order to play our SCREAM game! Have fun!
 
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame_web/blob/master/implementation%20image.png?raw=true)
 
 
 
@@ -73,7 +73,7 @@ Handles the keyboard input and the player movement. Also has collision detection
 **Level Editor**
 
 It’s not fun if there is the same round every time. This allows a different level to be accessed every time.
-![](https://github.com/prava-d/SCREAMgame/blob/master/Screenshot%20from%202017-04-30%2021-03-52.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame_web/blob/master/Screenshot%20from%202017-04-30%2021-03-52.png?raw=true)
 
 
 **Environment**
@@ -108,7 +108,7 @@ The game records the character for a small amount of time, and then processes th
 _Neural Network_
 This trains on the 'a', 'e', and 'o' vowel sounds to differentiate using machine learning methods, specifically a neural network algorithm.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/implementation%20image.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame_web/blob/master/implementation%20image.png?raw=true)
 
 ## PROJECT HISTORY
 
@@ -144,7 +144,7 @@ In terms of idea, our idea changed quite a bit.
 
 5 - A two-dimensional game, played on one laptop, with vowel sounds controlling the type of death trap that kills a character. The player is controlled by the keyboard.
 
-![](https://github.com/prava-d/SCREAMgame/blob/master/timeline%20image.png?raw=true)
+![](https://github.com/prava-d/SCREAMgame_web/blob/master/timeline%20image.png?raw=true)
 
 ## RESULTS
 
